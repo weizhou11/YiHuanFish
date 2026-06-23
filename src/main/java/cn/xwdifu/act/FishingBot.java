@@ -1,9 +1,0 @@
-package cn.xwdifu.act;
-
-import cn.xwdifu.pojo.check;
-
-public class FishingBot {
-
-
-
-}

@@ -1,4 +1,4 @@
-package cn.xwdifu.pojo;
+package cn.xwdifu.YiHuanFish.pojo;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
