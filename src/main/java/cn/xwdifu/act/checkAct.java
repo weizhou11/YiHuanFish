@@ -2,8 +2,9 @@ package cn.xwdifu.act;
 
 import cn.xwdifu.pojo.check;
 
-public class FishingBot {
+public class checkAct {
 
+    check check = new check();
 
 
 }

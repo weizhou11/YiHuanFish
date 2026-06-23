@@ -1,8 +1,16 @@
 package cn.xwdifu.pojo;
 
+
+import lombok.AllArgsConstructor;
+import lombok.Data;
+import lombok.NoArgsConstructor;
+
+@Data
+@AllArgsConstructor
+@NoArgsConstructor
 public class performance {
 
-    private int SCAN_INTERVAL_MS;//扫描间隔
+    private int SCAN_INTERVAL_MS = 50;//扫描间隔
 
 
     //==鼠标移动模拟配置==

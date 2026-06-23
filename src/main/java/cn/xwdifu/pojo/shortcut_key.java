@@ -1,9 +1,17 @@
 package cn.xwdifu.pojo;
 
+
+import lombok.AllArgsConstructor;
+import lombok.Data;
+import lombok.NoArgsConstructor;
+
+@Data
+@AllArgsConstructor
+@NoArgsConstructor
 public class shortcut_key {
     /*
-    * 全局快捷键变量
-    * */
+     * 全局快捷键变量
+     * */
 
     private int start_stop_key;//启动停止快捷键
     private int exit_key;//退出快捷键
